@@ -7,3 +7,5 @@
 ## Feature: são branches para desenvolver alguma funcionalidade especifica
 
 ## Release:  Release serve como ponte para fazer o merge da Develop para a Master
+
+## Support: são usados para manter versões antigas do software enquanto novas versões estão em desenvolvimento.
