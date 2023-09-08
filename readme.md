@@ -4,3 +4,4 @@
 
 ## Hotfix: Manutenção ou “hotfix” essas branches são usadas para corrigir rapidamente bugs de produção. 
 
+## Feature: são branches para desenvolver alguma funcionalidade especifica
