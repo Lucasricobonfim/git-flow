@@ -5,3 +5,5 @@
 ## Hotfix: Manutenção ou “hotfix” essas branches são usadas para corrigir rapidamente bugs de produção. 
 
 ## Feature: são branches para desenvolver alguma funcionalidade especifica
+
+## Release:  Release serve como ponte para fazer o merge da Develop para a Master
